@@ -1,0 +1,26 @@
+STEP 0 - Github & Azure Account
+-Repo created: azure_helpdesk_active_directory_lab
+Readme initialized
+Loom folder structure created 
+Spending budget configured (Lab Budget, $25)
+-Resoucre group "rg_helpdesk_lab" created.
+
+STEP 1 - Planning & Documentation
+- Documentation stategy defined:
+- Loom videos for milestones
+- Screenshots uploaded to GitHub
+- Build log: Track all steps
+- Folder structure created: Build log/ Read Me/ Video step by step/ Screenshots
+
+STEP 2 - Networking
+- Virtual Network & Subnet
+- VNet: "Vnet_helpdesk_lab" 10.0.0.0/16
+- Subnet: "subnet_internal" 10.0.1.0/24
+- Loom Video: Uploaded to video step by step.
+- Screenshot: Uploaded to Github (Vnet overview screenshot)
+
+STEP 2B- NSG Creation & RDP Rule
+-NSG: nsg_helpdesk_lab created
+- Inbound RDP rule added (port 3389)
+- Screenshot: NSG-RDP added
+- Loom Video: NSG added
