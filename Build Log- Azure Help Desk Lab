@@ -24,3 +24,11 @@ STEP 2B- NSG Creation & RDP Rule
 - Inbound RDP rule added (port 3389)
 - Screenshot: NSG-RDP added
 - Loom Video: NSG added
+
+STEP 3A- Domain Controller VM Creation
+- VM: "dc-helpdesk-lab) created
+- Image: Windows Server 2022 Desktop Experience
+- Size Standard B2ls v2 (2 vcpus, 4 GiB memory)
+- Networking: VNet "vnet-helpdesk-lab", Subnet "Subnet-Internal", NSG "nsg-helpdesk-lab" (Allow RDP)
+- Screenshot: DC VM Overview uploaded
+- Loom Video: DC VM Overview uploaded
