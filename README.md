@@ -15,5 +15,6 @@ Steps Completed
 - Github repo created.
 - Azure free account created
 - Spending budget configured
-
-- 
+-Resource group "rg_helpdesk_lab" created
+-Virtual Network "Vnet_helpdesk_lab" created with subnet "subnet internal"
+Screenshots and video uploaded and folder structure ready
