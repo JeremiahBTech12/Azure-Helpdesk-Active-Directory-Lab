@@ -32,3 +32,9 @@ STEP 3A- Domain Controller VM Creation
 - Networking: VNet "vnet-helpdesk-lab", Subnet "Subnet-Internal", NSG "nsg-helpdesk-lab" (Allow RDP)
 - Screenshot: DC VM Overview uploaded
 - Loom Video: DC VM Overview uploaded
+
+STEP 4: Connect To Virtual Machine (RDP)
+Step 5: Connfigure Active Directory
+Step 6: Create User
+Step 7: Create User Group
+Step 8: Reset User Password
