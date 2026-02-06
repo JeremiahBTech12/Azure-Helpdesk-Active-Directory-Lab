@@ -1,6 +1,6 @@
 # Azure-Helpdesk-Active-Directory-Lab
-Azure-hosted Help Desk lab simulating an on-prem Active Directory environment.
-Objective: Build a cloud-hosted Active Directory Environment to simulate real-world Help Desk User creation, User group creation, and User password reset.
+Azure-hosted Help Desk lab simulating an Active Directory environment.
+Objective: Build a cloud-hosted Active Directory environment to simulate real-world Help Desk User creation, User group creation, and User password reset.
 
 Technologies
 -Microsoft Azure
